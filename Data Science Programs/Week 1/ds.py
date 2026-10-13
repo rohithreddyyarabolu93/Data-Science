@@ -1,0 +1,2 @@
+a="WELCOME TO KLH UNIVERSITY"
+print(a)

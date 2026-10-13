@@ -1,0 +1,13 @@
+a="ROHITH"
+print(a.lower())
+print(a.find('T'))
+print(a.capitalize())
+print(a.swapcase())
+print(a.title())
+print(len(a))
+print(a.replace('R','S'))
+print(a.upper())
+print(a.zfill(10))
+print(a.islower())
+print(a.isupper())
+print(a.index('H'))
